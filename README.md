@@ -50,3 +50,10 @@ Open your browser and visit:
 
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/39168e1e-9ea8-4b71-a3ac-a6e4e4a2ca39" />
 
+<img width="942" height="511" alt="image" src="https://github.com/user-attachments/assets/819af85c-d91c-4a20-816f-41d556e22599" />
+
+<img width="942" height="470" alt="image" src="https://github.com/user-attachments/assets/2057c216-06c0-43b3-844d-6f37cb8e818d" />
+
+<img width="911" height="480" alt="image" src="https://github.com/user-attachments/assets/2efb75fc-abed-4cfd-bcbf-f11f40bd7c25" />
+
+
